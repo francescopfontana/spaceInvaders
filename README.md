@@ -1,2 +1,2 @@
 # nFireInvaders
-Recreating (very badly) the popular game "Space Invaders" using Python
+Recreating the popular game "Space Invaders" using Python
